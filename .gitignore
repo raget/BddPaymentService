@@ -1,0 +1,7 @@
+﻿/.vs
+/.idea
+/PaymentService/bin
+/PaymentService/obj
+/PaymentService.Tests/bin
+/PaymentService.Tests/obj
+/.gitconfig
